@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📢Currently studying Software Engineering Technology - Artificial Intelligence Advanced Diploma <br/>
+🏆[Bachelor’s degree in Architecture]() with honours at King Mongkut's University of Technology North Bangkok  <br/>
