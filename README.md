@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Jaturaput Jongsubcharoen, but you can call me Mac; it’s my preferred name.👋
+
+
 
 <!--
 **Jaturaput-Jongsubcharoen/Jaturaput-Jongsubcharoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
