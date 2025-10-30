@@ -1,7 +1,3 @@
-## 👋 Hi! I'm **Jaturaput Jongsubcharoen**, but you can call me **Mac** — it’s my preferred name.
-
----
-
 <!--
 **Jaturaput-Jongsubcharoen/Jaturaput-Jongsubcharoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi! I'm **Jaturaput Jongsubcharoen**, but you can call me **Mac** — it’s my preferred name.
+
+---
 
 ### 🎓 Education
 
@@ -99,4 +99,4 @@ These experiences give me an understanding of **backend processes** and have str
 
 ---
 
-💬 *Thanks for visiting my profile! Feel free to connect or check out my projects below.*
+💬 *Thanks for visiting my profile! Feel free to connect or check out my projects below.*  
