@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineering Technology - Artificial Intelligence Student</h3>
 
 ### 📊 GitHub Stats
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jaturaput-Jongsubcharoen&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaturaput-Jongsubcharoen&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaturaput-Jongsubcharoen&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
