@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jaturaput-jongsubcharoen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ My Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
